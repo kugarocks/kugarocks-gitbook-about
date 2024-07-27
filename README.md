@@ -97,6 +97,6 @@
 
 这个房子，3个房间，我们一起睡一个房间，还有一个琴房，一个杂物房。
 
-<figure><img src=".gitbook/assets/IMG_20150804_010936.jpg" alt=""><figcaption><p>中二吧</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_20150804_010936.jpg" alt=""><figcaption><p>这风扇好多年了</p></figcaption></figure>
 
-这是我们的工作台，我们船长坐中间，上面还挂了我们的旗子，没事就一起吃肯得基看海贼王。我们他都喜欢装X，一起学 VIM，一起学五笔打字，我还送了他一个域名，luffy
+我们的工作台，船长坐中间，上面挂旗子，没事就一起吃肯德基看海贼王。我们都喜欢装，写代码用 VIM 插件，打字用五笔，后面还送了他一个域名，luffy.me。当时还没什么钱，在饿了么上几块钱就能吃个外卖了，放到现在不敢吃了哈哈。

@@ -1,10 +1,10 @@
 # 关于我
 
-## 如果我是一只猫
+## 你知道你自己是谁吗
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/mao-meme (1).gif" alt=""><figcaption><p>On the Internet, no one knows you are a cat.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/mao-meme (2).gif" alt=""><figcaption><p>On the Internet, no one knows you are a cat.</p></figcaption></figure>
 
 </div>
 
@@ -53,7 +53,7 @@
 
 ## 华南农业大学
 
-下一站五山，软件工程，就这样，我踏上了 4 年的大学时光。
+下一站五山，软件工程。
 
 最有印象的课是密码学，那应该是我数学知识的顶点了。证明费马小定理，用程序实现米勒-拉宾素性测试（Miller-Rabin Primality Test），AES 对称加密，RSA 非对称加密，真是太好玩了，不过都是玩具，毕竟 OpenSSL 都已经成为标准了。
 

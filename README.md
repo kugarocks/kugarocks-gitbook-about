@@ -1,5 +1,13 @@
 # 关于我
 
+## 如果我是一只猫
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/mao-meme (1).gif" alt=""><figcaption><p>On the Internet, no one knows you are a cat.</p></figcaption></figure>
+
+</div>
+
 ## 东莞市建设小学
 
 不知道是从几年级开始，有了人生第一台 PC，联想电脑，最喜欢玩 《三维弹球》。后来接触到互联网，电话拨号，上网还不能打电话，一下就被老妈发现了。网游也是那个时候兴起的，《石器时代》、《仙境传说》、《梦幻西游》 都是神一般的游戏。
